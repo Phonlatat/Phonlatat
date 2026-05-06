@@ -27,7 +27,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  username=Phonlatat&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="165" />
 </p>
 
 <p align="left">
