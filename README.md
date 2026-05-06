@@ -26,6 +26,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phonlatat&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="165" />
+  
   <img src="https://streak-stats.demolab.com?user=Phonlatat&theme=dark&background=1c1917&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=true" height="165" />
 </p>
