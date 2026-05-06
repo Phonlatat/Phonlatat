@@ -27,8 +27,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prameKittikorn&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prameKittikorn&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="165" />
+  username=prameKittikorn&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="165" />
 </p>
 
 <p align="left">
