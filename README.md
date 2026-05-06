@@ -20,16 +20,6 @@
 🛠️ **Design & Productivity**
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 
-### 🏆 My GitHub Trophies
-🏆 [![🤖 Phonlatat's Trophies](https://github-profile-trophy.vercel.app/?username=Phonlatat&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 Weekly Coding Activity
-```text
-▲ Next.js      ████████████████████████░ 48.5 %
-⚛️ React        ████████████░░░░░░░░░░░░ 22.1 %
-🟦 TypeScript   ██████░░░░░░░░░░░░░░░░░░ 12.3 %
-🐍 Python       ████░░░░░░░░░░░░░░░░░░░░ 8.2 %
-
-
-### 🎵 Currently Listening To
+🎵 Currently Listening To
 [![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=21262d&text_color=c9d1d9)](https://open.spotify.com)
